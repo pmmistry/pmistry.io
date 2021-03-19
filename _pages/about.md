@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 ### Head Shot 
-![](https://github.com/pmmistry/pmistry.io/blob/master/assets/images/DSC_0123.jpg)
+![](https://raw.githubusercontent.com/pmmistry/pmistry.io/master/assets/images/DSC_0123.jpg)
 
 ### Bio
 
