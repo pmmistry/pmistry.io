@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
+### Head Shot 
+![./assets/images/DSC_0123.jpg]
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Pooja Mistry (@poojamakes) is a Developer Advocate for the IBM Cloud Platform. She works on expanding the reach of IBM's technology to the developer community. Her area of interest includes prototyping with Node-RED, analyzing data, creating custom models with AI/ML services, NLU/NLP, building chatbots, and using open source libraries and SDKs to develop fun and exciting projects! Pooja is passionate about the intersection of technology and the community. She loves to learn, teach, and share her knowledge with the developer ecosystem. She strongly believes in helping new technologists get up and running with technology and feel confident in their abilities to make!
